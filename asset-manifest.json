@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tres-en-raya/static/css/main.8a0cc5ff.css",
+    "main.js": "/tres-en-raya/static/js/main.b0a5b45e.js",
+    "static/js/787.e68f8f01.chunk.js": "/tres-en-raya/static/js/787.e68f8f01.chunk.js",
+    "index.html": "/tres-en-raya/index.html",
+    "main.8a0cc5ff.css.map": "/tres-en-raya/static/css/main.8a0cc5ff.css.map",
+    "main.b0a5b45e.js.map": "/tres-en-raya/static/js/main.b0a5b45e.js.map",
+    "787.e68f8f01.chunk.js.map": "/tres-en-raya/static/js/787.e68f8f01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0cc5ff.css",
+    "static/js/main.b0a5b45e.js"
+  ]
+}
