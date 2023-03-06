@@ -1,3 +1,5 @@
+# Juego Tres en raya con REACT
+![](https://github.com/NDisponible/tres-en-raya/blob/main/tresEnRaya.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
